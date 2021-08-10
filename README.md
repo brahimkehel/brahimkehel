@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brahimkehel
-- 👀 I’m interested in Java,C# Frameworks
+- 👀 I’m interested in Java,C#,Javascript Frameworks
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me brahimkehel@gmail.com
